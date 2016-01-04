@@ -1,0 +1,6 @@
+name := "scalaLearning"
+
+version := "1.0"
+
+scalaVersion := "2.11.7"
+    
